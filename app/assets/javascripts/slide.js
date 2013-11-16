@@ -1,0 +1,12 @@
+$(document).ready(function(){
+    $("#status").hide()
+    $("#status").slideUp(300).delay(500).fadeIn(400);
+});
+$(document).ready(function(){
+    $("#st").hide();
+    $("#st").show(2000);
+});
+$(document).ready(function(){
+    $("#ftable").hide();
+    $("#ftable").show(2000);
+});
